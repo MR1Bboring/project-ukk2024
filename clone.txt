@@ -1,0 +1,15 @@
+1. nyalakan terlebih dahulu xampp apace dan mysql
+2. cek composer di cmd
+3. pilih code
+4. pilih https lalu copy link
+5 buka folder baru
+6. simpan di drive
+7. klik kanan masuk ke git baseh hare
+8. tuliskan "git clone lalu copykan link yang tadi lalu enter
+9. masuk ke project nya
+10. buka apk vsc
+11. copy env.exsample lalu ubah ke .env saja
+12 buat database di php my admin dengan nama yang sesuai di env
+13. buka terminal
+14. ketikan php artisan migrate
+15 ketikan php artisan serve
